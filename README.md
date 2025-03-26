@@ -1,4 +1,4 @@
-#Luis Arriagada quero
-#agustin Vargas Gomez
+#Bastian Vargas Quero
+#Diego Vargas Arriagada
 
 cambio desde el maiiin 
